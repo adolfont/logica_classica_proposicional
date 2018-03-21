@@ -10,6 +10,7 @@ As funcionalidades a serem implementadas são:
 2. Cálculo do tamanho (complexidade) de uma fórmula bem formada (fbf)
 3. Subfórmulas
   - Verificar se uma fbf f1 é subfórmula de uma fbf f2
+  - Verificar se uma fbf f1 é subfórmula própria de uma fbf f2
   - Calcular todas as subfórmulas de uma fbf f
   - Calcular todas as subfórmulas próprias de uma fbf f
 
