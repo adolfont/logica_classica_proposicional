@@ -9,9 +9,9 @@ As funcionalidades a serem implementadas são:
   - Num segundo momento, recebendo como entrada uma linguagem, para verificar se os átomos da fórmula fazem parte da linguagem, se os conectivos fazem parte da linguagem, e se a aridade dos conectivos está correta.
 2. Cálculo do tamanho (complexidade) de uma fórmula bem formada (fbf)
 3. Subfórmulas
-  1. Verificar se uma fbf f1 é subfórmula de uma fbf f2
-  2. Calcular todas as subfórmulas de uma fbf f
-  3. Calcular todas as subfórmulas próprias de uma fbf f
+  - Verificar se uma fbf f1 é subfórmula de uma fbf f2
+  - Calcular todas as subfórmulas de uma fbf f
+  - Calcular todas as subfórmulas próprias de uma fbf f
 
 ## Representação de fórmulas
 
