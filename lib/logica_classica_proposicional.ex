@@ -37,4 +37,18 @@ defmodule LogicaClassicaProposicional do
   def subformula_propria?(_, _) do
     :error
   end
+
+  @doc """
+  Calcula o conjunto de subfórmulas de uma fórmula.
+  """
+  def conjunto_subformulas(_) do
+    :error
+  end
+
+  @doc """
+  Calcula o conjunto de subfórmulas próprias de uma fórmula.
+  """
+  def conjunto_subformulas_proprias(_) do
+    :error
+  end
 end

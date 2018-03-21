@@ -1,5 +1,7 @@
 defmodule LogicaClassicaProposicionalTest do
   use ExUnit.Case
+  doctest LogicaClassicaProposicional
+
   # Versão sem verificar átomos e aridades
 
   # Fórmulas atômicas
