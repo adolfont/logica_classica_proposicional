@@ -7,7 +7,7 @@ defmodule LogicaClassicaProposicional do
   Verifica se uma fórmula é bem formada.
   """
   def formula_bem_formada?(_) do
-      :error
+    :error
   end
 
   @doc """
@@ -24,5 +24,17 @@ defmodule LogicaClassicaProposicional do
     :error
   end
 
+  @doc """
+  Verifica se uma fórmula1 é subfórmula de fórmula2.
+  """
+  def subformula?(_, _) do
+    :error
+  end
 
+  @doc """
+  Verifica se uma fórmula1 é subfórmula própria de fórmula2.
+  """
+  def subformula_propria?(_, _) do
+    :error
+  end
 end
