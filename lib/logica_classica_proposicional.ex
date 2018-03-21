@@ -17,4 +17,12 @@ defmodule LogicaClassicaProposicional do
     :error
   end
 
+  @doc """
+  Calcula o tamanho de uma fórmula bem formada
+  """
+  def tamanho(_) do
+    :error
+  end
+
+
 end
